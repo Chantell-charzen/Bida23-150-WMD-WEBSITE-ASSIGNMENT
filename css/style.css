@@ -249,23 +249,4 @@
     text-align: center;
     border-bottom: 2px solid;
   }
-  table {font: size 30px;}
-  
-   .txt{
-    width: 400px;
-    height: 50px;
-    border-radius: 8px;
-   }
-  td{
-    padding: 10px 20px 0 0;
-  }
-  .txtarea{
-    width: 800px;
-    height: 150px;
-    border-radius: 8px;
-  }
-  .sbbtn{
-    width: 837px;
-    height: 30px;
-    background-color: aqua;
-  }
+ 
